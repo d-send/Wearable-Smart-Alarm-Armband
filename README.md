@@ -5,6 +5,6 @@ An Armband designed primaraly for force waking up in the morning using vibration
 ## PCB
 ![Alt text](https://github.com/d-send/Wearable-Smart-Alarm-Armband/blob/c6e8f582dff5845de8d9b85611bf915a058bdee3/Circuits/Segments.png)
 
-![Alt text]()
+![Alt text](https://github.com/d-send/Wearable-Smart-Alarm-Armband/blob/cb1e02e8eb99a8a5e46afd69aee9755192bc257d/Circuits/Wiring.png)
 
 ## Finished Armband 
