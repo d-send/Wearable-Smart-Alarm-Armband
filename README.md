@@ -8,3 +8,4 @@ An Armband designed primaraly for force waking up in the morning using vibration
 ![Alt text](https://github.com/d-send/Wearable-Smart-Alarm-Armband/blob/cb1e02e8eb99a8a5e46afd69aee9755192bc257d/Circuits/Wiring.png)
 
 ## Finished Armband 
+![Alt text](https://github.com/d-send/Wearable-Smart-Alarm-Armband/blob/dd0c261aea471338bfdc28d7dfaa7292de98512d/20260320_060517.jpg)
